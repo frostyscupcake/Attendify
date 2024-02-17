@@ -30,6 +30,7 @@ while photoCount < 500:
 
 video.release()
 cv2.destroyAllWindows()
+print("im nanda")
 
 
 
